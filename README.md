@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdelrahman Shear 👋</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=This+is+Abdelrahman+Shear.;Business+Intelligence+Engineer.;ITI+Student+!" style="padding-left: 100px;">
+    <img src="https://readme-typing-svg.demolab.com/?lines=This+is+Abdelrahman+Shear.;Business+Intelligence+Engineer.;ITI+Student+!" style="padding-left: 150px;">
   </a>
 </p>
 <p align="center">
