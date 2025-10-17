@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Abdelrahman Shear 👋</h1>
+<h1 align="center">Hi, I'm Abdelrahman Shoair 👋</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=This+is+Abdelrahman+Shear.;Data+Engineer;ITI+Graduate+!" style="padding-left: 150px;">
+    <img src="https://readme-typing-svg.demolab.com/?lines=This+is+Abdelrahman+Shoair.;Data+Engineer;ITI+Graduate+!" style="padding-left: 150px;">
   </a>
 </p>
 <p align="center">
@@ -48,7 +48,7 @@ I'm driven by a continuous desire to learn and master new technologies in the da
 I'm always open to discussing new projects, innovative ideas, or opportunities in the data engineering space.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdelrahman-shear-0a44342a7/">
+  <a href="https://www.linkedin.com/in/abdelrahman-Shear-0a44342a7/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   </p>
